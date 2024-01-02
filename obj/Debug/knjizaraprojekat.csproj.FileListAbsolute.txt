@@ -1,0 +1,10 @@
+C:\Users\38164\source\repos\knjizaraprojekat\bin\Debug\knjizaraprojekat.exe.config
+C:\Users\38164\source\repos\knjizaraprojekat\bin\Debug\knjizaraprojekat.exe
+C:\Users\38164\source\repos\knjizaraprojekat\bin\Debug\knjizaraprojekat.pdb
+C:\Users\38164\source\repos\knjizaraprojekat\obj\Debug\knjizaraprojekat.csproj.AssemblyReference.cache
+C:\Users\38164\source\repos\knjizaraprojekat\obj\Debug\knjizaraprojekat.Form1.resources
+C:\Users\38164\source\repos\knjizaraprojekat\obj\Debug\knjizaraprojekat.Properties.Resources.resources
+C:\Users\38164\source\repos\knjizaraprojekat\obj\Debug\knjizaraprojekat.csproj.GenerateResource.cache
+C:\Users\38164\source\repos\knjizaraprojekat\obj\Debug\knjizaraprojekat.csproj.CoreCompileInputs.cache
+C:\Users\38164\source\repos\knjizaraprojekat\obj\Debug\knjizaraprojekat.exe
+C:\Users\38164\source\repos\knjizaraprojekat\obj\Debug\knjizaraprojekat.pdb
